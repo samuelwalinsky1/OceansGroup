@@ -2,8 +2,8 @@
 <html>
 <head>
 
-<!-- BE SURE TO CHANGE THIS; INCLUDE YOUR NAME AND A MEANINGFUL TITLE -->
-<title>Noah Travis Phillips ~ Hypertext reh.</title>
+<!--INCLUDE YOUR NAME AND A MEANINGFUL TITLE: Emily Axtell, Animals Living in the Atlantic Ocean-->
+<title>Emily Axtell ~Living Creatures in the Atlantic reh.</title>
 
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
 
@@ -23,13 +23,13 @@ body {
  
  div {
   height: 200px;
-  width: 44%;
+  width: 50%;
   background-color: powderblue;
 }
 
 #right {
 
-border:12px solid green;
+border:12px solid blue;
 height:66%;
 width:400px;
 background:white;
