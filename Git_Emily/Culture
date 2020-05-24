@@ -2,8 +2,7 @@
 <html>
 <head>
 
-<!-- BE SURE TO CHANGE THIS; INCLUDE YOUR NAME AND A MEANINGFUL TITLE -->
-<title>Noah Travis Phillips ~ Hypertext reh.</title>
+<title>Emily Axtell ~ Culture Surrounding the Atlantic Ocean </title>
 
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
 
@@ -29,7 +28,7 @@ body {
 
 #right {
 
-border:12px solid green;
+border:12px solid purple;
 height:66%;
 width:400px;
 background:white;
@@ -45,7 +44,7 @@ float:right;
 
 <p align="center">
 this text is in the center<BR>
-<font size="12">this works pretty well as a TITLE </P></font><BR><BR>
+<font size="12">Culture Surrounding the Atlantic Ocean </P></font><BR><BR>
 
 
 
