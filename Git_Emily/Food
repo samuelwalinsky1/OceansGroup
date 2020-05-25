@@ -2,8 +2,7 @@
 <html>
 <head>
 
-<!-- BE SURE TO CHANGE THIS; INCLUDE YOUR NAME AND A MEANINGFUL TITLE -->
-<title>Noah Travis Phillips ~ Hypertext reh.</title>
+<title> Emily Axtell ~ Food Sources in the Atlantic </title>
 
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
 
@@ -11,19 +10,19 @@
 <style type="text/css">
 
 body {
-  background-image: linear-gradient(blue, white);
+  background-image: linear-gradient(red, white);
   height:100%
 }
 
 /* 
 body {
-	background-color: #000FFF;
+	background-color: #A3AAE7;
 }
  */
  
  div {
   height: 200px;
-  width: 44%;
+  width: 80%;
   background-color: powderblue;
 }
 
@@ -44,8 +43,8 @@ float:right;
 <BR><BR><BR><BR>
 
 <p align="center">
-this text is in the center<BR>
-<font size="12">this works pretty well as a TITLE </P></font><BR><BR>
+<BR>
+<font size="12"> Food Sources in the Atlantic </P></font><BR><BR>
 
 
 
