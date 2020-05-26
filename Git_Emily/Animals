@@ -23,7 +23,7 @@ body {
  div {
   height: 100px;
   width: 80%;
-  background-color: green;
+  background-color: #A3AAE7;
 }
 
 #right {
@@ -53,7 +53,7 @@ Some main plants living in the region are kelp, phytoplankton, seagrass, and tho
 </p>
 </div>
 
-this is a <a href="https://sciencing.com/what-plants-live-in-the-atlantic-ocean-13404956.html">link</a><BR>
+Here is a source talking more about the  <a href="https://sciencing.com/what-plants-live-in-the-atlantic-ocean-13404956.html">plants</a><BR>
 
 this text is <b>bold</b><BR>
 & this is <i>italic</i><BR>
