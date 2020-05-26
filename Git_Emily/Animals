@@ -43,12 +43,15 @@ float:right;
 <BR><BR><BR><BR>
 
 <p align="center">
-Whats Living in the Atlantic <BR>
-<font size="12">this works pretty well as a TITLE </P></font><BR><BR>
+Whats Living in the Atlantic? <BR>
+<font size="12"> Plants and Animals Living in the Atlantic </P></font><BR><BR>
 
+<div>
+<p>This is a "div" for which the parameters have been set up in the "style" section above...<BR> 
+The Atlantic has some unique animals living in it, but also some traditional animals seen all across the ocean.</p>
+</div>
 
-
-this is a <a href="https://www.w3schools.com/html/html_links.asp">link</a><BR>
+this is a <a href="https://sciencing.com/what-plants-live-in-the-atlantic-ocean-13404956.html">link</a><BR>
 
 this text is <b>bold</b><BR>
 & this is <i>italic</i><BR>
