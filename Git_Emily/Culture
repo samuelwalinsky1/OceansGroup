@@ -10,7 +10,7 @@
 <style type="text/css">
 
 body {
-  background-image: linear-gradient(blue, white);
+  background-image: linear-gradient(white, blue);
   height:100%
 }
 
@@ -22,7 +22,7 @@ body {
  
  div {
   height: 200px;
-  width: 44%;
+  width: 99;
   background-color: powderblue;
 }
 
@@ -60,9 +60,13 @@ all the while this is <font size="2" color="white"><u>underlined and white</u></
 <BR>
 
 <div>
-<p>This is a "div" for which the parameters have been set up in the "style" section above...<BR> 
-And this text is known as lorem ipsum... it is just a place holder, your text should be <i>meaningful</i>.<BR><BR>
-Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.</p>
+<p align="center"> Culture surrounding the Atlantic Ocean<BR> 
+The Atlantic Ocean lies between North and South America on the west and Europe and Africa on the east.<BR>
+Often divided into the north and south atlantic due to its large side.<BR>
+It covers about 20 percent of the earths surface<BR>
+The Atlantic Ocean derives its name from the Greek god, Atlas.<BR>
+.<BR><BR>
+.</p>
 </div>
 <BR><BR>
 
