@@ -21,9 +21,9 @@ body {
  */
  
  div {
-  height: 200px;
-  width: 50%;
-  background-color: powderblue;
+  height: 100px;
+  width: 80%;
+  background-color: green;
 }
 
 #right {
@@ -47,8 +47,10 @@ Whats Living in the Atlantic? <BR>
 <font size="12"> Plants and Animals Living in the Atlantic </P></font><BR><BR>
 
 <div>
-<p>This is a "div" for which the parameters have been set up in the "style" section above...<BR> 
-The Atlantic has some unique animals living in it, but also some traditional animals seen all across the ocean.</p>
+<p>Surprising to some, not all things living in the water are the same regionally!!<BR> 
+The Atlantic has some unique animals living in it, but also some traditional animals seen all across the ocean.<BR>
+Some main plants living in the region are kelp, phytoplankton, seagrass, and thong weed.
+</p>
 </div>
 
 this is a <a href="https://sciencing.com/what-plants-live-in-the-atlantic-ocean-13404956.html">link</a><BR>
