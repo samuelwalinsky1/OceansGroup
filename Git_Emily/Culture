@@ -22,7 +22,7 @@ body {
  
  div {
   height: 200px;
-  width: 99;
+  width: 80%;
   background-color: powderblue;
 }
 
