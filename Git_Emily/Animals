@@ -10,13 +10,13 @@
 <style type="text/css">
 
 body {
-  background-image: linear-gradient(blue, white);
+  background-image: linear-gradient(#000FFF, white);
   height:100%
 }
 
 /* 
 body {
-	background-color: #000FFF;
+	background-color:#FFFFFF ;
 }
  */
  
@@ -65,9 +65,9 @@ all the while this is <font size="2" color="white"><u>underlined and white</u></
 <BR>
 
 <div>
-<p>This is a "div" for which the parameters have been set up in the "style" section above...<BR> 
-And this text is known as lorem ipsum... it is just a place holder, your text should be <i>meaningful</i>.<BR><BR>
-Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.</p>
+<p> Some animals or plants in the Atlantic are more dangerous than others<BR> 
+what are these animals you may ask?.<BR><BR>
+They vary from .</p>
 </div>
 <BR><BR>
 
@@ -77,17 +77,14 @@ Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac tu
 
 
 <div id="right" align="right" style="width:25%;height:33%;" >
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Some other super cool interesting and fun information that I found
 </div>
 <BR><BR>
 
 
 <P>
 <a href="group member 1/hypertext template red.html" style="color:#FF0000;">RED</a><BR>
-
 <a href="group member 3/hypertext template eye 2.html">&#128065; two</a><BR>
-
-
 <a href="group member 3/hypertext template eye.html">&#128065; one</a><BR>
 </p>
 
