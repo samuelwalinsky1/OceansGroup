@@ -1,12 +1,9 @@
 <!DOCTYPE HTML PUBLIC>
 <html>
 <head>
-
-<!-- BE SURE TO CHANGE THIS; INCLUDE YOUR NAME AND A MEANINGFUL TITLE -->
-<title>Noah Travis Phillips ~ Hypertext reh.</title>
+<title>Emily Axtell ~ The Effects of Humans on the Atlantic Ocean </title>
 
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-
 
 <style type="text/css">
 
@@ -17,19 +14,19 @@ body {
 
 /* 
 body {
-	background-color: #000FFF;
+	background-color: #FFFFFF;
 }
  */
  
  div {
   height: 200px;
-  width: 44%;
+  width: 90%;
   background-color: powderblue;
 }
 
 #right {
 
-border:12px solid green;
+border:12px #FFE002;
 height:66%;
 width:400px;
 background:white;
@@ -44,9 +41,8 @@ float:right;
 <BR><BR><BR><BR>
 
 <p align="center">
-this text is in the center<BR>
-<font size="12">this works pretty well as a TITLE </P></font><BR><BR>
-
+How terrible are humans to the ocean?
+<BR>The Effect of Humans on the Atlantic Ocean </P></font><BR><BR>
 
 
 this is a <a href="https://www.w3schools.com/html/html_links.asp">link</a><BR>
@@ -61,7 +57,7 @@ all the while this is <font size="2" color="white"><u>underlined and white</u></
 <BR>
 
 <div>
-<p>This is a "div" for which the parameters have been set up in the "style" section above...<BR> 
+<p>Now here is some useful information that I have<BR> 
 And this text is known as lorem ipsum... it is just a place holder, your text should be <i>meaningful</i>.<BR><BR>
 Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.</p>
 </div>
