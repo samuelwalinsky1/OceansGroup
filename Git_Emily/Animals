@@ -2,15 +2,14 @@
 <html>
 <head>
 
-<title> Emily Axtell ~Living Creatures in the Atlantic </title>
+<title> Emily Axtell ~Living Creatures in the Indian Ocean </title>
 
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-
 
 <style type="text/css">
 
 body {
-  background-image: linear-gradient(#000FFF, white);
+  background-image: linear-gradient(white, #000FFF);
   height:100%
 }
 
@@ -27,14 +26,13 @@ body {
 }
 
 #right {
-
 border:12px solid blue;
 height:66%;
 width:400px;
 background:white;
 float:right;
-
 }
+
 </style>
 </head>
 
@@ -43,18 +41,41 @@ float:right;
 <BR><BR>
 
 <p align="center">
-Whats Living in the Atlantic? <BR>
-<font size="12"> Plants and Animals Living in the Atlantic </P></font><BR>
+Whats Living in the Indian Ocean? <BR>
+<font size="12"> Plants and Animals Living in the Indian Ocean </P></font><BR>
 
 <div>
 <p>Surprising to some, not all things living in the water are the same regionally!!<BR> 
-The Atlantic has some unique animals living in it, but also some traditional animals seen all across the ocean.<BR>
+The Indian Ocean has some unique animals living in it, but also some traditional animals seen all across the ocean.<BR>
 Some main plants living in the region are kelp, phytoplankton, seagrass, and thong weed.
 </p>
 </div>
 
-Here is a source talking more about the  <a href="https://sciencing.com/what-plants-live-in-the-atlantic-ocean-13404956.html">plants</a><BR>
+Here is a source talking more about the  <a href="https://sciencing.com/what-plants-live-in-the-atlantic-ocean-13404956.html">plants
+</a><BR>
 
+<div>
+<p> Some animals or plants in the Atlantic are more dangerous than others<BR> <BR>
+what are these animals you may ask?.<BR><BR>
+They vary from .</p>
+</div>
+<BR><BR>
+
+<div id="right" align="right" style="width:25%;height:33%;" >
+Some other super cool interesting and fun information that I found
+</div>
+<BR><BR>
+
+<P>
+<a href="group member 1/hypertext template red.html" style="color:#FF0000;">RED</a><BR>
+<a href="group member 3/hypertext template eye 2.html">&#128065; two</a><BR>
+<a href="group member 3/hypertext template eye.html">&#128065; one</a><BR>
+</p>
+
+<BR>
+<p align="right">
+& this text is on the "write"</p>
+<BR><BR>
 this text is <b>bold</b><BR>
 & this is <i>italic</i><BR>
 all the while this is <font size="2" color="white"><u>underlined and white</u></font><BR>
@@ -64,29 +85,7 @@ all the while this is <font size="2" color="white"><u>underlined and white</u></
  <font size="14" color="orange">whatever</font><BR>
 <BR>
 
-<div>
-<p> Some animals or plants in the Atlantic are more dangerous than others<BR> <BR>
-what are these animals you may ask?.<BR><BR>
-They vary from .</p>
-</div>
-<BR><BR>
 
-<p align="right">
-& this text is on the "write"</p>
-<BR><BR>
-
-
-<div id="right" align="right" style="width:25%;height:33%;" >
-Some other super cool interesting and fun information that I found
-</div>
-<BR><BR>
-
-
-<P>
-<a href="group member 1/hypertext template red.html" style="color:#FF0000;">RED</a><BR>
-<a href="group member 3/hypertext template eye 2.html">&#128065; two</a><BR>
-<a href="group member 3/hypertext template eye.html">&#128065; one</a><BR>
-</p>
 
 
 </body>
