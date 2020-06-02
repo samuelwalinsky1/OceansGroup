@@ -64,11 +64,6 @@ Some other super cool interesting and fun information that I found
 </div>
 <BR><BR>
 
-<P>
-<a href="group member 1/hypertext template red.html" style="color:#FF0000;">RED</a><BR>
-<a href="group member 3/hypertext template eye 2.html">&#128065; two</a><BR>
-<a href="group member 3/hypertext template eye.html">&#128065; one</a><BR>
-</p>
 
 <BR>
 <p align="right">
@@ -82,6 +77,12 @@ all the while this is <font size="2" color="white"><u>underlined and white</u></
 <font face="verdana" color="red">"RED"</font> <BR>
  <font size="14" color="orange">whatever</font><BR>
 <BR>
+
+<P>
+<a href="group member 1/hypertext template red.html" style="color:#FF0000;">RED</a><BR>
+<a href="group member 3/hypertext template eye 2.html">&#128065; two</a><BR>
+<a href="group member 3/hypertext template eye.html">&#128065; one</a><BR>
+</p>
 
 
 </body>
