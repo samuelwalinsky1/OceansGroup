@@ -1,0 +1,122 @@
+<!DOCTYPE HTML PRIVATE>
+<html>
+<head>
+
+<title> Burke ~ Hypertext homepage demo 2 </title>
+
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+
+
+<style type="text/css">
+
+a:hover {
+	color:black;
+	background-color: transparent;
+	text-decoration: underline;
+	}
+
+
+
+body {
+  background-image: linear-gradient(#FFFFFF, #066ED6);
+  height:80%
+}
+
+
+div {
+  height:100px;
+  width: 77%;
+  background-color: transparent;
+}
+
+#header {
+  width: 77%;
+  height:5px;
+  background: black;
+  text-align: center;
+  }
+  
+#left {
+  width:70%;
+  height:200px;
+  background: transparent;
+  float: left;
+  }
+  
+#right {
+  width:10px;
+  height:200%;
+  background: black;
+  float: right;
+  }
+
+</style>
+
+
+
+<header>
+
+
+<div id="right">
+	<p align="right">
+	</div>
+
+<p align="center">
+	<font size= "16"> Hurricanes </font>
+	</p>
+
+
+
+<body a link:"black">
+
+
+<p align="center">
+	<font size = "4">
+	<a href="file:///Users/butke/Documents/GroupHomepage.html"> <B> Group Homepage &nbsp; &nbsp; &nbsp; </B> </a>
+	<a href="file:///Users/butke/Documents/Atlantic%20Homepage.html"> <B> Atlantic Homepage &nbsp; &nbsp; &nbsp; </B>	
+	<a href="file:///Users/butke/Documents/HumanTravel.html"> <B> Human Travel &nbsp; &nbsp; &nbsp; </B> </a>
+	<a href="file:///Users/butke/Documents/Plants%20and%20Animals.html"> <B> Plants and Animals &nbsp; &nbsp; &nbsp; </B> </a> 
+	<a href="file:///Users/butke/Documents/IslandCulture.html"> <B> Island Culture &nbsp; &nbsp; &nbsp; </B> </a>
+	<a href="file:///Users/butke/Documents/Pollution%20and%20Global%20Warming.html"> <B> Hurricanes </B> </a>
+	</font></p>
+
+<div id="header">
+	</div>
+
+<div><p> 
+	<font size= "4">
+	The Atlantic Ocean is the epicenter for the creation of Hurricanes that typically end
+	up near the warmer water in the Gulf of Mexico. The changes in water temperature and 
+	air pressure that occurs in the Atlantic Ocean create the perfect conditions for a 
+	Hurricane to develop. 
+	</p></div>
+
+
+<div id="left">
+	<img src=assets/WEATHER_SYSTEM_BURKE_WESTERN.Jpg>
+	</div>
+
+<div id="left">
+	<p> 1.Starts in warm water near the equator 
+<BR>
+2.Warm water evaporates 
+<BR>
+3.Winds blow across Atlantic Ocean from Africa 
+<BR>
+4.Wind causes more warm water to evaporate 
+<BR>
+5.Water evaporates into the atmosphere where it cools 
+<BR>
+6.The evaporated water then condenses back into liquid water 
+<BR>
+7.Water droplets in the atmosphere become clouds 
+<BR>
+8.As the warm air rises upwards, it causes the air to spiral and increase in speed 
+<BR>
+9.As clouds and wind unify in their spiral, the speed increases 
+<BR>
+10.Once the winds reach 75 mph, it is considered to be an active hurricane 
+<BR>
+11.Once a hurricane hits land, the lack of warm air and water from the ocean body causes it to die down and eventually disapate 
+<BR>
+	</p></div>
