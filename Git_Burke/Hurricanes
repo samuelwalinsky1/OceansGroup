@@ -72,12 +72,11 @@ div {
 
 <p align="center">
 	<font size = "4">
-	<a href="file:///Users/butke/Documents/GroupHomepage.html"> <B> Group Homepage &nbsp; &nbsp; &nbsp; </B> </a>
-	<a href="file:///Users/butke/Documents/Atlantic%20Homepage.html"> <B> Atlantic Homepage &nbsp; &nbsp; &nbsp; </B>	
-	<a href="file:///Users/butke/Documents/HumanTravel.html"> <B> Human Travel &nbsp; &nbsp; &nbsp; </B> </a>
-	<a href="file:///Users/butke/Documents/Plants%20and%20Animals.html"> <B> Plants and Animals &nbsp; &nbsp; &nbsp; </B> </a> 
-	<a href="file:///Users/butke/Documents/IslandCulture.html"> <B> Island Culture &nbsp; &nbsp; &nbsp; </B> </a>
-	<a href="file:///Users/butke/Documents/Pollution%20and%20Global%20Warming.html"> <B> Hurricanes </B> </a>
+	<a href="../Git_Burke/GroupHomepage.html"> <B> Group Homepage &nbsp; &nbsp; &nbsp; </B> </a>
+	<a href="../Git_Burke/homepage.html"> <B> Atlantic Homepage &nbsp; &nbsp; &nbsp; </B>	
+	<a href="../Git_Burke/HumanTravel.html"> <B> Human Travel &nbsp; &nbsp; &nbsp; </B> </a>
+	<a href="../Git_Burke/PlantsandAnimals.html"> <B> Plants and Animals &nbsp; &nbsp; &nbsp; </B> </a> 
+	<a href="../Git_Burke/IslandCulture.html"> <B> Island Culture &nbsp; &nbsp; &nbsp; </B> </a>
 	</font></p>
 
 <div id="header">
